@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm 4mir Ramzani 👋
 
-<!--
-**the4mir/the4mir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer working with backend and frontend technologies.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend: Node.js, Express.js
+- Frontend: Quasar, JavaScript
+- Programming: Python
+
+### 🚀 What I'm Working On
+
+Building web applications, APIs, automation tools, and backend services.
+
+### 📚 Currently Learning
+
+Improving my skills by building real-world projects and experimenting with new technologies.
