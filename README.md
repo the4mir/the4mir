@@ -1,17 +1,24 @@
-# Hi, I'm 4mir Ramzani 👋
+# Hey, I'm 4mir Ramzani 👋
 
-I'm a developer working with backend and frontend technologies.
+### Backend & Frontend Developer
 
-### 💻 Tech Stack
+I build things, break things, fix them, and learn along the way.
 
-- Backend: Node.js, Express.js
-- Frontend: Quasar, JavaScript
-- Programming: Python
+Most of my work is around:
 
-### 🚀 What I'm Working On
+- ⚙️ Node.js & Express.js
+- ⚡ Quasar & JavaScript
+- 🐍 Python
+- 🔌 REST APIs & backend services
 
-Building web applications, APIs, automation tools, and backend services.
+### 🛠️ What I Like Building
 
-### 📚 Currently Learning
+Web applications, APIs, automation tools, bots, and random ideas that turn into actual projects.
 
-Improving my skills by building real-world projects and experimenting with new technologies.
+### 🚀 My Stack
+
+```text
+Backend     → Node.js / Express.js
+Frontend    → Quasar / JavaScript
+Python      → Automation / Tools
+APIs        → REST / JSON
