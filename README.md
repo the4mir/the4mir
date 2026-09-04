@@ -18,6 +18,16 @@ I enjoy building web apps, REST APIs, Telegram bots, and automation tools.
 
 I mostly work on backend development, but I also enjoy working on the frontend and connecting everything together.
 
+### 📂 Projects
+
+Here are some of the things I'm working on:
+
+- 🤖 **Telegram Bots** — Bots and automation projects built with Python and Node.js
+- 🌐 **Web Applications** — Full-stack applications using Express.js and Quasar
+- 🔌 **REST APIs** — Backend services and APIs
+
+More projects coming soon...
+
 ### 🚀 Tech Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
