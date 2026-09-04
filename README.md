@@ -14,7 +14,9 @@ Most of my work is around:
 
 ### 🛠️ What I Like Building
 
-Web applications, APIs, Telegram bots, automation tools, and random ideas that turn into actual projects.
+I enjoy building web apps, REST APIs, Telegram bots, and automation tools.
+
+I mostly work on backend development, but I also enjoy working on the frontend and connecting everything together.
 
 ### 🚀 Tech Stack
 
